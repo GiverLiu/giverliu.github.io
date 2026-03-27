@@ -98,6 +98,7 @@ kidoz.net, 15467, RESELLER, a109366414b7335e
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+google.com, pub-6059316363418523, DIRECT, f08c47fec0942fa0
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 smartclip.net, 13564, RESELLER
